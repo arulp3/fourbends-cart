@@ -1,0 +1,19 @@
+.navbar{
+    background-color: aqua;
+    padding: 2rem;
+    
+    
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+
+li{
+    text-decoration: none;
+}

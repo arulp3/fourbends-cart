@@ -1,0 +1,28 @@
+.foodArea{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+    padding: 10px;
+}
+
+.foodCards{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.cartItems{
+    display: flex;
+}
+
+.cartBox{
+    display: flex;
+    flex-direction: column;
+}
+
+.valuebox{
+    display: flex;
+    flex-direction: column;
+}

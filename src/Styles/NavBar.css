@@ -1,0 +1,6 @@
+.navBarMain{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    padding: 1rem
+}
